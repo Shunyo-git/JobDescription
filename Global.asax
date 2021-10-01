@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.vb" Inherits="HsinYi.EIP.JobDescription.Web.Global" %>

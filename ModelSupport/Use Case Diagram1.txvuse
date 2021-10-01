@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="y01efga0m9tgo5g_v">
+    <property name="$name" value="Use Case Diagram1" />
+    <property name="$metaclass" value="Use Case Diagram" />
+  </view>
+</nodeSet>
